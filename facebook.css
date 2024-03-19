@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    background-color: rgb(123, 132, 138);
+}
+
+.left {
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+    display: block;
+    margin: buttom;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+
+input {
+    padding: 10px 20px 10px 20px;
+    display: block;
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.create-btn {
+    background-color: blue;
+    color: white;
+}
+
+.login-btn {
+    background-color: green;
+    color: white;
+}
+.facebook-login{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: xx-large;
+}
+.forgot-password{
+    text-align: center;
+
+}
+.slogan{
+    font-style: italic;
+    font-weight: 500;
+    font-size: x-large;
+}
