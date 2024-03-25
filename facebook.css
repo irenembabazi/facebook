@@ -17,7 +17,7 @@ button {
     margin: buttom;
     width: 300px;
     border-radius: 5px;
-    
+
 }
 
 input {
@@ -27,25 +27,28 @@ input {
     width: 300px;
 }
 
-.create-btn {
+button{
     background-color: blue;
     color: white;
 }
 
-.login-btn {
+#account{
     background-color: green;
     color: white;
 }
-.facebook-login{
+
+.facebook-login {
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
     font-size: xx-large;
 }
-.forgot-password{
+
+.forgot-password {
     text-align: center;
 
 }
-.slogan{
+
+.slogan {
     font-style: italic;
     font-weight: 500;
     font-size: x-large;
